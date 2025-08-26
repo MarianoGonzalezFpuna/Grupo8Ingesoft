@@ -1,2 +1,0 @@
-HOLA
-hamburguesa parrillera doble :)
